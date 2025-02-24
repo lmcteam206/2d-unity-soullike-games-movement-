@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "tools",
+			"path": "../../../../../tools"
+		},
+		{
+			"name": "hacking tools",
+			"path": "F:/hacking tools"
+		},
+		{
+			"name": "html library",
+			"path": "../../../../../html library"
+		},
+		{
+			"name": "live ai",
+			"path": "../../../../../live ai"
+		},
+		{
+			"name": "bankai",
+			"path": "../../../../../bankai"
+		},
+		{
+			"path": "../../../../../bankai interpreter"
+		},
+		{
+			"path": "../../../../../scp games"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html library"
+	}
+}
